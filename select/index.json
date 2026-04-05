@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Cheri Cheri Lady (New Version)",
+  "base_artist": "Modern Talking",
+  "createdAt": "2026-04-05T15:38:21.438756Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cheri Cheri Lady (New Version)",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/01_Cheri_Cheri_Lady_(New_Version)_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cheri Cheri Lady [New Version]",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/02_Cheri_Cheri_Lady_[New_Version]_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cheri, Cheri Lady - New Hit Version",
+      "artist": "Thomas Anders",
+      "has_synced": true,
+      "path": "select/03_Cheri,_Cheri_Lady_-_New_Hit_Version_Thomas_Anders.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cheri, Cheri Lady (NEW DB VERSION)",
+      "artist": "Dieter Bohlen",
+      "has_synced": false,
+      "path": "select/04_Cheri,_Cheri_Lady_(NEW_DB_VERSION)_Dieter_Bohlen.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cheri, Cheri Lady (new version)",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/05_Cheri,_Cheri_Lady_(new_version)_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cheri Cheri Lady - New Version 2017",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/06_Cheri_Cheri_Lady_-_New_Version_2017_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cheri Cheri Lady (New Version)",
+      "artist": "Modern Talking Offiziell",
+      "has_synced": true,
+      "path": "select/07_Cheri_Cheri_Lady_(New_Version)_Modern_Talking_Offiziell.lrc"
+    }
+  ]
+}
